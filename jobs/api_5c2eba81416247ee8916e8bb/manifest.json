@@ -1,0 +1,22 @@
+{
+  "job_id": "api_5c2eba81416247ee8916e8bb",
+  "mode": "zip_split",
+  "file_url": "https://free-dl9.myalphadl.com/KosKZs_COj5H8F1kOABRmg/Re.Zero.Kara.H.I.S.S04E01.1080p.WEB-DL.x265.10bit.ASW.AD.mkv",
+  "suggested_filename": "Re.Zero.Kara.H.I.S.S04E01.1080p.WEB-DL.x265.10bit.ASW.AD.mkv",
+  "total_size_bytes": 162635171,
+  "created_at_utc": "2026-05-14T22:01:27.414968+00:00",
+  "zip_folder": "jobs/api_5c2eba81416247ee8916e8bb/zip",
+  "zip_main_file": "Re.Zero.Kara.H.I.S.S04E01.1080p.WEB-DL.x265.10bit.ASW.AD_split.zip",
+  "zip_parts": [
+    {
+      "name": "Re.Zero.Kara.H.I.S.S04E01.1080p.WEB-DL.x265.10bit.ASW.AD_split.z01",
+      "path": "jobs/api_5c2eba81416247ee8916e8bb/zip/Re.Zero.Kara.H.I.S.S04E01.1080p.WEB-DL.x265.10bit.ASW.AD_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Re.Zero.Kara.H.I.S.S04E01.1080p.WEB-DL.x265.10bit.ASW.AD_split.zip",
+      "path": "jobs/api_5c2eba81416247ee8916e8bb/zip/Re.Zero.Kara.H.I.S.S04E01.1080p.WEB-DL.x265.10bit.ASW.AD_split.zip",
+      "size_bytes": 68263605
+    }
+  ]
+}
